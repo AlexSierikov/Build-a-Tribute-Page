@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<title>Kharkovcity</title>
+<body> 
+<div id="main"> <!-- #1 User Story --> 
+  <h1 align="center" id="title">Kharkov city</h1> <!-- #2 User Story -->
+	<div align="center" id="img-div"> <!-- #3 User Story -->
+		<img id="image" src="http://strany.com.ua/wp-content/uploads/2018/07/kharkovv.jpg" alt "pic Kharkov city"><!-- #4 User Story -->
+	    	<div align="center" id="img-caption">
+			<h3>
+			Part of the city center, river Kharkov <!-- #5 User Story -->
+			</h3>
+		</div>
+	</div>
+	<div id="tribute-info"> <!-- #6 User Story -->
+		<center>
+		<p>Kharkov (Ukrainian Harkiv) - the second most populous city in Ukraine, 
+		the country's scientific center, the center of the Kharkiv region.<br>
+		The modern city was founded in 1654 on the site of an ancient settlement 
+		identified sometimes as a Polovtsian town of the XI century Sharukan.</p>
+		</center>
+	</div>
+	<div align="center">
+		<h4>
+			If you have time, you can read more about this city in
+			<a id="tribute-link" href="https://en.wikipedia.org/wiki/Kharkiv" target="_blank">Wikipedia</a> <!-- #7 User Story -->
+		</h4>
+	</div>
+</body>
+</html>
